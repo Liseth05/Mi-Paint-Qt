@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Recursos">
+        <file>Recursos/cepillo.png</file>
+        <file>Recursos/guardar.png</file>
+        <file>Recursos/nuevo.png</file>
+        <file>Recursos/salir.png</file>
+    </qresource>
+</RCC>
